@@ -1,7 +1,6 @@
 <!-- <p><img src="" alt="alt README header"></p> -->
 <h2 id="aboutme">💫 A beginner interested in the world of programming and cybersecurity</h2>
 <p>🎓 Officially became a student of Informatics Engineering at State Islamic University (UIN) Sultan Syarif Kasim Riau, Pekanbaru, in 2022.</p>
-<p>Long story short:</p>
 <p>🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat</p>
 <p>🌎 Check my <a href="">portfolio</a></p>
 <p>⚡ I’m always doing some side projects, but I can’t be bothered to keep my portfolio up to date.</p>
