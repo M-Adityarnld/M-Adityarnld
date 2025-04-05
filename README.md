@@ -17,9 +17,10 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true width="55%") <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=M-Adityarnld&theme=blue_navy&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="55%"/><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=M-Adityarnld&theme=blue_navy&hide_border=false" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Adityarnld&theme=blue_navy
+hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="36%"/><br>
 </div>
 
 
