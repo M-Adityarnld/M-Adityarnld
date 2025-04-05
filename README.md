@@ -1,19 +1,17 @@
- <!-- <p><img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png" alt="alt README header"></p> -->
+b <!-- <p><img src="" alt="alt README header"></p> -->
 <h2 id="aboutme">💫 A beginner interested in the world of programming and cybersecurity</h2>
-<!-- <p>🔭 Currently working at Global, a British media company. I work with great people and we are using great technologies!</p> -->
+<p>🎓 Officially became a student of Informatics Engineering at State Islamic University (UIN) Sultan Syarif Kasim Riau, Pekanbaru, in 2022.</p>
 <p>Long story short:</p>
 <p>🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat</p>
 <p>🌎 Check my <a href="">portfolio</a></p>
-<p>I’m always doing some side projects, but I can’t be bothered to keep my portfolio up to date.</p>
+<p>⚡ I’m always doing some side projects, but I can’t be bothered to keep my portfolio up to date.</p>
+<p>💬 Don't ask me, because I'm learning. Let's discuss together.</p>
 <!-- 🔭 I’m currently working on<br> -->
 <!-- 👯 I’m looking to collaborate on<br> -->
 <!-- 🤝 I’m looking for help with<br>
 🌱 I’m currently learning<br> -->
-💬 Don't ask me, because I'm learning. Let's discuss together<br>
 <!-- ⚡ Fun fact  -->
 
-
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"> -->
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -37,12 +35,6 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
- 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M-Adityarnld&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@coming-soon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_adtyarnld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@coming-soon) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/@coming-soon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@coming-soon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditadalahorang@gmail.com)
 ---
@@ -50,10 +42,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=M-Adityarnld&icon=5&color=1)](https://visitcount.itsvg.in)
 
+</div>
 
+<div align="center>
 
-![snake gif](https://github.com/M-Adityarnld/M-Adityarnld/blob/output/github-snake.svg)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=M-Adityarnld&limit=5&theme=transparent&combine_all_yearly_contributions=true)</br>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" >
 
 </div>
 
 
+![snake gif](https://github.com/M-Adityarnld/M-Adityarnld/blob/output/github-snake.svg)
