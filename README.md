@@ -48,7 +48,7 @@ b <!-- <p><img src="" alt="alt README header"></p> -->
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=M-Adityarnld&limit=5&theme=transparent&combine_all_yearly_contributions=true)</br>
+![](https://github-contributor-stats.vercel.app/api?username=M-Adityarnld&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" >
 
