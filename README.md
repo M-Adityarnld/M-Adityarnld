@@ -38,12 +38,14 @@
 ---
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M-Adityarnld&icon=5&color=1)](https://visitcount.itsvg.in)
-
-
+ 
 ### 🔝 Top Contributed Repo 🌠
 
 ![](https://github-contributor-stats.vercel.app/api?username=M-Adityarnld&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+
+<img src="https://komarev.com/ghpvc/?username=M-Adityarnld&&style=flat-square" align="center" />
+
 
 </div>
 
