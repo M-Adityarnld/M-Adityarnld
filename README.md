@@ -38,6 +38,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=M-Adityarnld&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Adityarnld/M-Adityarnld/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Adityarnld/M-Adityarnld/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/M-Adityarnld/M-Adityarnld/output/github-snake.svg" />
+</picture>
