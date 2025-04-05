@@ -41,6 +41,6 @@
 
 
 
-![snake gif](https://github.com/M-Adityarnld/M-Adityarnld/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/M-Adityarnld/M-Adityarnld/blob/output/github-snake.svg)
 
 
