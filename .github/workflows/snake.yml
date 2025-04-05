@@ -1,3 +1,6 @@
+name: GitHub Snake Game
+
+on:
   # Schedule the workflow to run daily at midnight UTC
 
   schedule:
@@ -80,7 +83,4 @@ jobs:
           publish_branch: output
 
           # Optionally, you can set a custom commit message
-
-          commit_message: "🌱 Update Snake Animation"
-
-
+          commit_message: "🌱 Update snake animation [skip ci]"
