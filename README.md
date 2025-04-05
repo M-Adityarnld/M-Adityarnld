@@ -16,9 +16,11 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true width="55%") <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=M-Adityarnld&theme=blue_navy&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 
 # 💻 Tech Stack:
