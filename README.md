@@ -1,6 +1,6 @@
- <p><img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png" alt="alt README header"></p>
+ <!-- <p><img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png" alt="alt README header"></p> -->
 <h2 id="aboutme">💫 A beginner interested in the world of programming and cybersecurity</h2>
-<p>🔭 Currently working at Global, a British media company. I work with great people and we are using great technologies!</p>
+<!-- <p>🔭 Currently working at Global, a British media company. I work with great people and we are using great technologies!</p> -->
 <p>Long story short:</p>
 <p>🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat</p>
 <p>🌎 Check my <a href="">portfolio</a></p>
