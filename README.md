@@ -16,7 +16,7 @@
 
 <div align="center">
 
-# 📊 My Stats 🔥:
+# 📊 My Stats 🔥
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"></br>
 <img src="https://github-readme-stats.vercel.app/api?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="55%"/></br>
@@ -34,7 +34,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 You Can Find Me 😎x
+## 🌐 You Can Find Me 😎
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@coming-soon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_adtyarnld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@coming-soon) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/@coming-soon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@coming-soon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditadalahorang@gmail.com)
 ---
 
