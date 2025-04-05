@@ -44,7 +44,7 @@ b <!-- <p><img src="" alt="alt README header"></p> -->
 
 </div>
 
-<div align="center>
+<div align="center">
 
 ### 🔝 Top Contributed Repo
 
