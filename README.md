@@ -24,7 +24,7 @@
 
 ### ⏰ Here's my WakaTime stat
 
-[![Muhammad Aditya WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M-Adityarnld&text_color=36CCFC&title_color=36FC3E&bg_color=1E1E1E&border_color=FCC936\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-Adityarnld&text_color=36CCFC&bg_color=1E1E1E&border_color=FCC936\&layout=compact" alt="languages graph"/>
 
 # 💻 Tech Stack ⚡
 
