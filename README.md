@@ -22,9 +22,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="36%"/>
 </br>
 
-### ⏰ Here's my WakaTime stat
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=M-Adityarnld&text_color=36CCFC&bg_color=1E1E1E&border_color=FCC936\&layout=compact" alt="languages graph"/>
 
 # 💻 Tech Stack ⚡
 
