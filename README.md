@@ -22,6 +22,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Adityarnld&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="36%"/>
 </br>
 
+### ⏰ Here's my WakaTime stat
+
+[![Muhammad Aditya WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=M-Adityarnld&text_color=36CCFC&title_color=36FC3E&bg_color=1E1E1E&border_color=FCC936\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # 💻 Tech Stack ⚡
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
